@@ -6,3 +6,4 @@ universitas: universitas alghifari
 hobi:tidur 
 alamat: garut 
 alasan :menurut saya programing itu skil dasar di era digital sekarang.hampir semua bidang butuh teknologi,jadi kalau saya bisa ngoding,saya punya nilai plus dan bisa beradaptasi di banyak pekerjaan 
+saya suka baso ikan 
